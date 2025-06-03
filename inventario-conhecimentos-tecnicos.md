@@ -4,7 +4,7 @@
 
 Mesmo que o Tech Manager não esteja codando no dia a dia, entender profundamente as tecnologias utilizadas pelo time é essencial para tomar decisões assertivas, orientar soluções técnicas e remover impedimentos com agilidade.
 
-O conhecimento das stacks modernas — do front-end ao back-end, passando por bancos de dados, DevOps e segurança — permite ao gestor:
+O meu conhecimento das stacks modernas — do front-end ao back-end, passando por bancos de dados, DevOps e segurança — permite ao gestor:
 
 📌 Traduzir requisitos de negócio em arquitetura viável e escalável
 
