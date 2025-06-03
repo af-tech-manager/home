@@ -79,7 +79,6 @@ Para visualizar o conteúdo completo ( [CLIQUE AQUI](https://github.com/af-tech-
 **Legenda:**  
 :star: = 1 ponto de domínio (até 5)
 
-## Inventário de Conhecimentos Técnicos em Engenharia de Software :whale:
-Para saber mais, acesso a página com apresentação de todas as minhas stacks técnicas [( Inventário de Conhecimento Técnico )](https://github.com/af-tech-manager/home/blob/main/inventario-conhecimentos-tecnicos.md)
+## 🎯 Meus conhecimentos como Tech Manager (Full Stack) ( [Conheça minhas staks ](https://github.com/af-tech-manager/home/blob/main/inventario-conhecimentos-tecnicos.md))
 ---
 :lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
