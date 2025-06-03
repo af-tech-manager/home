@@ -2,7 +2,7 @@
 # 🎯 Meus conhecimentos como Tech Manager (Full Stack)
 :house: [Voltar para home](https://github.com/af-tech-manager/home)
 
-Mesmo que o Tech Manager não esteja codando no dia a dia, entender profundamente as tecnologias utilizadas pelo time é essencial para tomar decisões assertivas, orientar soluções técnicas e remover impedimentos com agilidade.
+Mesmo eu como Tech Manager não esteja codando no dia a dia, entender profundamente as tecnologias utilizadas pelo time é essencial para tomar decisões assertivas, orientar soluções técnicas e remover impedimentos com agilidade. Quando preciso coloco a mão na massa também!
 
 O meu conhecimento das stacks modernas — do front-end ao back-end, passando por bancos de dados, DevOps e segurança — permite ao gestor:
 
