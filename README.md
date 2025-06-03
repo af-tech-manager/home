@@ -40,3 +40,6 @@ Sou movido pelo desafio de alinhar tecnologia, pessoas e resultados, combinando 
 - **Inovação:** Pesquisa de novas tecnologias, IA, low-code.
 
 Para visualizar o conteúdo completo ( [CLIQUE AQUI](https://github.com/af-tech-manager/portfolio/tree/main) )
+
+---
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
