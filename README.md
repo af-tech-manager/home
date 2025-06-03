@@ -42,6 +42,8 @@ Sou movido pelo desafio de alinhar tecnologia, pessoas e resultados, combinando 
 Para visualizar o conteúdo completo ( [CLIQUE AQUI](https://github.com/af-tech-manager/portfolio/tree/main) )
 
 ---
+## Meus conhecimentos como Tech Manager (Full Stack) 🎯
+( [Conheça minhas staks ](https://github.com/af-tech-manager/home/blob/main/inventario-conhecimentos-tecnicos.md))
 
 ## Nível Habilidades e Competências :grin:
 
@@ -79,6 +81,5 @@ Para visualizar o conteúdo completo ( [CLIQUE AQUI](https://github.com/af-tech-
 **Legenda:**  
 :star: = 1 ponto de domínio (até 5)
 
-## 🎯 Meus conhecimentos como Tech Manager (Full Stack) ( [Conheça minhas staks ](https://github.com/af-tech-manager/home/blob/main/inventario-conhecimentos-tecnicos.md))
 ---
 :lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
