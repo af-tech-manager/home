@@ -43,7 +43,7 @@ Para visualizar o conteúdo completo ( [CLIQUE AQUI](https://github.com/af-tech-
 
 ---
 ## Meus conhecimentos como Tech Manager (Full Stack) 🎯
-( [Conheça minhas staks ](https://github.com/af-tech-manager/home/blob/main/inventario-conhecimentos-tecnicos.md))
+Linguagens de Programação e ferramentas ( [Conheça minhas staks ](https://github.com/af-tech-manager/home/blob/main/inventario-conhecimentos-tecnicos.md))
 
 ## Nível Habilidades e Competências :grin:
 
