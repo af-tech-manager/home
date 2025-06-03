@@ -42,4 +42,43 @@ Sou movido pelo desafio de alinhar tecnologia, pessoas e resultados, combinando 
 Para visualizar o conteúdo completo ( [CLIQUE AQUI](https://github.com/af-tech-manager/portfolio/tree/main) )
 
 ---
+
+## 💻 Nível Habilidades e Competências
+
+| Habilidades e Competências       | Nível        | Aolicação e Vivências                                                  |
+|----------------|--------------|--------------------------------------------------------------|
+| Gestão de Pessoas e times         | :star::star::star::star: :star: | Experiência sólida na liderança de equipes multidisciplinares de tecnologia, com foco em desenvolvimento profissional, cultura de feedback contínuo, engajamento e construção de times de alta performance. Atuação com planos de carreira, avaliação de desempenho e gestão humanizada. |
+| Gestão de Projetos         | :star::star::star::star: :star: | Domínio de práticas de gerenciamento de projetos com uso de metodologias ágeis e tradicionais (PMBOK, Scrum, Kanban). Habilidade em planejamento, acompanhamento de cronogramas, controle de escopo, custo e qualidade, especialmente em projetos de modernização de sistemas e transformação digital. |
+| Tech Lead / Tech Manager      | :star::star::star::star::star:  | Responsável pela liderança técnica de times de engenharia, garantindo qualidade de código, boas práticas, evolução da arquitetura e entrega contínua. Forte interface com stakeholders, promovendo alinhamento entre estratégia e tecnologia. |
+| Engenharia de Software        | :star::star::star::star::star:  | Sólida base em desenvolvimento de software, desde análise de requisitos até testes e deploy, com aplicação de padrões de arquitetura, SOLID, integração contínua e versionamento. Conhecimento em múltiplas stacks (Java, JS, Python, SQL). |
+| Product Manager        | :star::star::star::star: :star: | Experiência na liderança de produtos digitais com foco no ciclo de vida completo: discovery, definição de MVP, roadmap, backlog e métricas de sucesso. Atuação em ambientes corporativos e projetos públicos com foco em valor para o negócio e usuário. |
+| Product Discovery       | :star::star::star::star: | Condução de processos estruturados de descoberta de produto, entrevistas com usuários, prototipação, testes de hipóteses e alinhamento estratégico com stakeholders. Uso de ferramentas como Figma, Miro, Notion e métodos como Design Thinking. |
+| Product Owner        | :star::star::star::star: | Experiência prática em gestão de backlog, definição de histórias de usuário, critérios de aceitação, priorização por valor de negócio e facilitação de cerimônias ágeis. Atuação junto a devs, QA e UX para entrega contínua de valor. |
+| Scrum Master      | :star::star::star::star: | Facilitador ágil atuando com foco na remoção de impedimentos, evolução do time e amadurecimento das práticas. Promotor da melhoria contínua, coaching ágil e métricas como velocity, CFD, lead time e cycle time. |
+| Business Agibilyt       | :star::star::star::star::star:  | Aplicação de agilidade organizacional além do time de desenvolvimento, promovendo práticas de colaboração entre áreas, ciclos curtos de feedback, cultura de experimentação e entrega de valor alinhado à estratégia de negócios.  |
+| Metodologias Ágeis: Kanban / Scrum / LSSG      | :star::star::star::star::star:  | Aplicação prática dos principais frameworks ágeis com customização para contexto de projetos corporativos, públicos e escalados. Experiência com Kanban Systems Design, Scrum operacional e práticas de gestão Lean com foco em governança e fluidez. |
+
+**Legenda:**  
+:star: = 1 ponto de domínio (até 5)
+
+
+## 💻 Nível de Conhecimento em DevOps
+| Área / Competência                   | Nível | Descrição                                                                |
+| ------------------------------------ | ----- | ------------------------------------------------------------------------ |
+| **Integração Contínua (CI)**         | ⭐⭐⭐⭐  | Implementação de pipelines com Jenkins, GitHub Actions, GitLab CI.       |
+| **Entrega Contínua (CD)**            | ⭐⭐⭐⭐  | Automação de deploys com versionamento, rollback e testes automatizados. |
+| **Containers (Docker)**              | ⭐⭐⭐⭐  | Criação de imagens otimizadas, uso de volumes, redes e práticas seguras. |
+| **Orquestração (Kubernetes)**        | ⭐⭐⭐   | Deploys com YAML, Helm Charts, configuração de clusters em nuvem.        |
+| **Monitoramento e Logging**          | ⭐⭐⭐⭐  | Configuração de Prometheus, Grafana, ELK Stack, logs estruturados.       |
+| **Infraestrutura como Código (IaC)** | ⭐⭐⭐   | Experiência com Terraform, AWS CloudFormation e Ansible.                 |
+| **Segurança DevSecOps**              | ⭐⭐⭐   | Scans estáticos e dinâmicos (SAST/DAST), secrets management.             |
+| **Versionamento e Git Flow**         | ⭐⭐⭐⭐  | Domínio de estratégias como GitFlow, trunk-based e práticas de revisão.  |
+| **Agilidade e Colaboração**          | ⭐⭐⭐⭐  | Cultura DevOps integrada com metodologias ágeis e rituais colaborativos. |
+
+
+**Legenda:**  
+:star: = 1 ponto de domínio (até 5)
+
+
+---
 :lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
