@@ -30,7 +30,7 @@ Acredito que tecnologia é um habilitador poderoso, mas o verdadeiro diferencial
 
 Sou movido pelo desafio de alinhar tecnologia, pessoas e resultados, combinando visão estratégica com execução técnica de alto impacto.
 
-## Conheça meu portfolio de conhecimento e experiências técnicas como Tech Manager
+## Conheça meu portfolio de conhecimento e experiências técnicas
 
 - **Visão Estratégica:** Alinhamento com objetivos de negócio e planejamento técnico.
 - **Gestão Técnica:** Arquitetura, padrões, devops e infraestrutura.
