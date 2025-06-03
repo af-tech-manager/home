@@ -30,3 +30,13 @@ Acredito que tecnologia é um habilitador poderoso, mas o verdadeiro diferencial
 
 Sou movido pelo desafio de alinhar tecnologia, pessoas e resultados, combinando visão estratégica com execução técnica de alto impacto.
 
+## Conheça meu portfolio de conhecimento e experiências técnicas como Tech Manager
+
+- **Visão Estratégica:** Alinhamento com objetivos de negócio e planejamento técnico.
+- **Gestão Técnica:** Arquitetura, padrões, devops e infraestrutura.
+- **Gestão de Times:** Estruturação de squads, rituais, onboarding e carreira.
+- **Governança e Segurança:** Políticas de segurança, LGPD, compliance.
+- **Métricas e Indicadores:** KPIs técnicos, produtividade, DevOps.
+- **Inovação:** Pesquisa de novas tecnologias, IA, low-code.
+
+Para visualizar o conteúdo completo ( [CLIQUE AQUI](https://github.com/af-tech-manager/portfolio/tree/main) )
