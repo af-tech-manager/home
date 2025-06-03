@@ -45,7 +45,7 @@ Para visualizar o conteúdo completo ( [CLIQUE AQUI](https://github.com/af-tech-
 
 ## 💻 Nível Habilidades e Competências
 
-| Habilidades e Competências       | Nível        | Aolicação e Vivências                                                  |
+| Habilidades e Competências       | Nível        | Aplicação e Experiências                                             |
 |----------------|--------------|--------------------------------------------------------------|
 | Gestão de Pessoas e times         | :star::star::star::star::star: | Experiência sólida na liderança de equipes multidisciplinares de tecnologia, com foco em desenvolvimento profissional, cultura de feedback contínuo, engajamento e construção de times de alta performance. Atuação com planos de carreira, avaliação de desempenho e gestão humanizada. |
 | Gestão de Projetos         | :star::star::star::star::star: | Domínio de práticas de gerenciamento de projetos com uso de metodologias ágeis e tradicionais (PMBOK, Scrum, Kanban). Habilidade em planejamento, acompanhamento de cronogramas, controle de escopo, custo e qualidade, especialmente em projetos de modernização de sistemas e transformação digital. |
