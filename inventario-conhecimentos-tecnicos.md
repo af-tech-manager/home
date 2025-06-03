@@ -1,5 +1,23 @@
-# :ledger: Meu inventário de conhecimento em Engenharia de Software
-:house: [[Voltar para home](https://github.com/af-tech-manager/home)]
+
+# 🎯 Por que um Tech Manager deve dominar os fundamentos da stack Full Stack?
+:house: [Voltar para home](https://github.com/af-tech-manager/home)
+
+Mesmo que o Tech Manager não esteja codando no dia a dia, entender profundamente as tecnologias utilizadas pelo time é essencial para tomar decisões assertivas, orientar soluções técnicas e remover impedimentos com agilidade.
+
+O conhecimento das stacks modernas — do front-end ao back-end, passando por bancos de dados, DevOps e segurança — permite ao gestor:
+
+📌 Traduzir requisitos de negócio em arquitetura viável e escalável
+
+🤝 Conduzir debates técnicos com embasamento e empatia com o time
+
+🚀 Acelerar decisões sobre frameworks, padrões e melhorias estruturais
+
+🧭 Promover padronização, boas práticas e evolução contínua na engenharia
+
+🔄 Facilitar o alinhamento entre Produto, Design, QA e Desenvolvimento
+
+Mais do que liderar pessoas, o Tech Manager lidera ecossistemas de entrega digital — e esse papel exige domínio técnico, visão sistêmica e fluência na stack de desenvolvimento.
+
 
 ## 🧱 1. Front-End (Interface com o Usuário)
 | Tecnologia                      | Finalidade                                      |
