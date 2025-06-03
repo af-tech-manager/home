@@ -1,3 +1,6 @@
+
+![image](https://github.com/user-attachments/assets/b0f053f3-b944-47f3-8aea-f6a1f74e11b6)
+
 # Olá! Sou Alan Fernandes :sunglasses:
 Gestor de Tecnologia da Informação apaixonado em transformar negócios e profissionais.
 
