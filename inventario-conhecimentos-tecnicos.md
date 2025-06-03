@@ -1,4 +1,4 @@
-# Meu inventário de conhecimento em Engenharia de Software
+# :ledger: Meu inventário de conhecimento em Engenharia de Software :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 ## 🧱 1. Front-End (Interface com o Usuário)
 | Tecnologia                      | Finalidade                                      |
@@ -55,4 +55,4 @@
 
 
 ---
-
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
