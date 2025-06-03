@@ -30,7 +30,7 @@ Acredito que tecnologia é um habilitador poderoso, mas o verdadeiro diferencial
 
 Sou movido pelo desafio de alinhar tecnologia, pessoas e resultados, combinando visão estratégica com execução técnica de alto impacto.
 
-## Conheça meu portfolio de conhecimento e experiências técnicas
+## Conheça meu portfolio de conhecimento e experiências técnicas :trophy:
 
 - **Visão Estratégica:** Alinhamento com objetivos de negócio e planejamento técnico.
 - **Gestão Técnica:** Arquitetura, padrões, devops e infraestrutura.
@@ -62,7 +62,7 @@ Para visualizar o conteúdo completo ( [CLIQUE AQUI](https://github.com/af-tech-
 :star: = 1 ponto de domínio (até 5)
 
 
-## 💻 Nível de Conhecimento em DevOps :octopus:
+## 💻 Nível de Conhecimento em DevOps :whale:
 | Área / Competência                   | Nível | Descrição                                                                |
 | ------------------------------------ | ----- | ------------------------------------------------------------------------ |
 | **Integração Contínua (CI)**         | ⭐⭐⭐⭐  | Implementação de pipelines com Jenkins, GitHub Actions, GitLab CI.       |
