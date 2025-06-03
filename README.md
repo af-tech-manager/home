@@ -43,7 +43,7 @@ Para visualizar o conteúdo completo ( [CLIQUE AQUI](https://github.com/af-tech-
 
 ---
 
-## 💻 Nível Habilidades e Competências
+## Nível Habilidades e Competências :grin:
 
 | Habilidades e Competências       | Nível        | Aplicação e Experiências                                             |
 |----------------|--------------|--------------------------------------------------------------|
@@ -62,7 +62,7 @@ Para visualizar o conteúdo completo ( [CLIQUE AQUI](https://github.com/af-tech-
 :star: = 1 ponto de domínio (até 5)
 
 
-## 💻 Nível de Conhecimento em DevOps
+## 💻 Nível de Conhecimento em DevOps :octopus:
 | Área / Competência                   | Nível | Descrição                                                                |
 | ------------------------------------ | ----- | ------------------------------------------------------------------------ |
 | **Integração Contínua (CI)**         | ⭐⭐⭐⭐  | Implementação de pipelines com Jenkins, GitHub Actions, GitLab CI.       |
