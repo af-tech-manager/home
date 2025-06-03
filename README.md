@@ -4,7 +4,7 @@
 # Olá! Sou Alan Fernandes :sunglasses:
 Gestor de Tecnologia da Informação apaixonado em transformar negócios e profissionais.
 
-Sou um Gestor de Tecnologia apaixonado por transformar negócios e desenvolver pessoas. Tenho mais de [18 anos] de experiência em liderança de equipes técnicas, inovação digital e modernização de sistemas, atuando como ponte entre estratégia, operação e resultados.
+Sou um Gestor de Tecnologia apaixonado por transformar negócios e desenvolver pessoas. Tenho mais de 18 anos de experiência em liderança de equipes técnicas, inovação digital e modernização de sistemas, atuando como ponte entre estratégia, operação e resultados.
 
 Ao longo da carreira, conduzi iniciativas de transformação em ambientes públicos e privados, com foco em:
 
