@@ -33,7 +33,7 @@ Sou movido pelo desafio de alinhar tecnologia, pessoas e resultados, combinando 
 ## Conheça meu portfolio de conhecimento e experiências técnicas :trophy:
 
 - **Visão Estratégica:** Alinhamento com objetivos de negócio e planejamento técnico.
-- **Gestão Técnica:** Arquitetura, padrões, devops e infraestrutura.
+- **Gestão Técnica:** Arquitetura, Padrões, QA Qualidade de Software, Devops e Infraestrutura.
 - **Gestão de Times:** Manifesto Ágil, Estruturação de squads, Rituais, Onboarding, Carreira e Offboarding
 - **Governança e Segurança:** Políticas de segurança, LGPD, compliance.
 - **Métricas e Indicadores:** KPIs técnicos, produtividade, DevOps.
