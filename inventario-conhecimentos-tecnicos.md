@@ -1,6 +1,6 @@
 
 # 🎯 Meus conhecimentos como Tech Manager (Full Stack)
-:house: [Voltar para home](https://github.com/af-tech-manager/home)
+Por: [ Alan Fernandes - Tech Manager ] :house: [Voltar para home](https://github.com/af-tech-manager/portfolio/blob/main/README.md)
 
 Mesmo eu como Tech Manager não esteja codando no dia a dia, entender profundamente as tecnologias utilizadas pelo time é essencial para tomar decisões assertivas, orientar soluções técnicas e remover impedimentos com agilidade. Quando preciso coloco a mão na massa também!
 
