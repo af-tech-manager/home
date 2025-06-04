@@ -34,7 +34,7 @@ Sou movido pelo desafio de alinhar tecnologia, pessoas e resultados, combinando 
 
 - **Visão Estratégica:** Alinhamento com objetivos de negócio e planejamento técnico.
 - **Gestão Técnica:** Arquitetura, Padrões, QA Qualidade de Software, Devops e Infraestrutura.
-- **Gestão de Times:** Manifesto Ágil, Estruturação de squads, Rituais, Onboarding, Carreira e Offboarding
+- **Gestão de Times:** Manifesto Ágil, Estruturação de squads, Rituais, Onboarding, Carreira e Offboarding.
 - **Governança e Segurança:** Políticas de segurança, LGPD, compliance.
 - **Métricas e Indicadores:** KPIs técnicos, produtividade, DevOps.
 - **Inovação:** Pesquisa de novas tecnologias, IA, low-code.
