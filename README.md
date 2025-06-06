@@ -38,6 +38,7 @@ Sou movido pelo desafio de alinhar tecnologia, pessoas e resultados, combinando 
 - **Governança e Segurança:** Políticas de segurança, LGPD, compliance.
 - **Métricas e Indicadores:** KPIs técnicos, produtividade, DevOps.
 - **Inovação:** Pesquisa de novas tecnologias, IA, low-code.
+- **IA Inteligência Artificial e Ciência de Dados:** IA Desenvolvimento Produtos Digitais, IA Engenharia de Software, IA Gestão de Projetos, Inovação e Tranformação Digital, Cultura Estratégica Data Driven.
 
 Para visualizar o conteúdo completo ( [CLIQUE AQUI](https://github.com/af-tech-manager/portfolio/tree/main) )
 
