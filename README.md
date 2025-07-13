@@ -96,4 +96,4 @@ Linguagens de Programação e ferramentas ( [Conheça minhas staks ](https://git
 :star: = 1 ponto de domínio (até 5)
 
 ---
-:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - pm.alfernandes@gmail.com
+:lock: 2025 - Todos os direitos autorais reservados à Alan Fernandes - asf.techmanager@gmail.com
